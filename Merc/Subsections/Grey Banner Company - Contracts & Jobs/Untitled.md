@@ -1,58 +1,57 @@
-# Contract: GBC-2025-{{CLIENT_NAME}}
+# Contract: GBC-2025-test
 
-**Contract ID:** GBC-2025-{{CONTRACT_NUMBER}}
+**Contract ID:** GBC-2025-000 ced 
 
 ---
 
 ## Client
 
-- **Name / Colony:** {{CLIENT_NAME}}  
-- **Customer Level (0–4):** {{CUSTOMER_LEVEL}}
+- **Name / Colony:** test 
+- **Customer Level (0–4):** 0
 
 ---
 
 ## Type of Service
-{{TYPE_OF_SERVICE}}  
+building  
 *(e.g. Construction, Escort, Delivery, etc.)*
 
 ---
 
 ## Objective
-{{OBJECTIVE}}  
+small starter house 
 *(Describe clearly what the client wants done.)*
 
 ---
 
 ## Conditions / Special Requirements
-{{CONDITIONS}}  
+2 double chest, bed, 3 furnace, crafting table 
 *(Special instructions, time limits, secrecy clauses, etc.)*
 
 ---
 
 ## Payment
 
-- **Base Price:** {{BASE_PRICE}} Ʉ  
-- **Discount:** {{DISCOUNT}}  
-- **Total Agreed:** {{TOTAL_AGREED}} Ʉ
+- **Base Price:** 5-10  Ʉ 
+- **Discount:** 0 Ʉ 
+- **Total Agreed:** 7 Ʉ
 
 ---
 
 ## Payment Method
 
-- [ ] Banner Scrip (Ʉ)  
-- [ ] Barter (list items): {{BARTER_ITEMS}}
+scrip 
 
 ---
 
 ## Company Resources Assigned
-{{RESOURCES_ASSIGNED}}
+Ced + Resources from employer 
 
 ---
 
 ## Deadlines
 
 - **Start Date:** 2025-07-31  
-- **Estimated Completion:** {{ESTIMATED_COMPLETION}}
+- **Estimated Completion:** tomorrow 
 
 ---
 

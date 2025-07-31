@@ -1,6 +1,6 @@
 # Contract: GBC-<% tp.date.now("YYYY") %>-<% await tp.system.prompt("Client Name/ID") %>
 
-**Contract ID:** GBC-<% tp.date.now("YYYY") %>-{{CONTRACT_NUMBER}}
+**Contract ID:** GBC-<% tp.date.now("YYYY") %>-<% await tp.system.prompt("Contract number and employee") %> 
 
 ---
 
