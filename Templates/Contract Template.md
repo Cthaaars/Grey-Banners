@@ -7,52 +7,51 @@
 ## Client
 
 - **Name / Colony:** <% await tp.system.prompt("Client Name and Colony") %> 
-- **Customer Level (0–4):** {{CUSTOMER_LEVEL}}
+- **Customer Level (0–4):** <% await tp.system.prompt("Customer Level") %>
 
 ---
 
 ## Type of Service
-{{TYPE_OF_SERVICE}}  
+<% await tp.system.prompt("Type of Service") %>  
 *(e.g. Construction, Escort, Delivery, etc.)*
 
 ---
 
 ## Objective
-{{OBJECTIVE}}  
+<% await tp.system.prompt("Objective") %>
 *(Describe clearly what the client wants done.)*
 
 ---
 
 ## Conditions / Special Requirements
-{{CONDITIONS}}  
+<% await tp.system.prompt("Conditions and Special Requirements") %> 
 *(Special instructions, time limits, secrecy clauses, etc.)*
 
 ---
 
 ## Payment
 
-- **Base Price:** {{BASE_PRICE}} Ʉ  
-- **Discount:** {{DISCOUNT}}  
-- **Total Agreed:** {{TOTAL_AGREED}} Ʉ
+- **Base Price:** <% await tp.system.prompt("base price") %>  Ʉ 
+- **Discount:** <% await tp.system.prompt("Discount") %> Ʉ 
+- **Total Agreed:** <% await tp.system.prompt("Total Agreed") %> Ʉ
 
 ---
 
 ## Payment Method
 
-- [ ] Banner Scrip (Ʉ)  
-- [ ] Barter (list items): {{BARTER_ITEMS}}
+<% await tp.system.prompt("Payment method (if items Please list)") %> 
 
 ---
 
 ## Company Resources Assigned
-{{RESOURCES_ASSIGNED}}
+<% await tp.system.prompt("Assigned Company Resources") %> 
 
 ---
 
 ## Deadlines
 
 - **Start Date:** <% tp.date.now("YYYY-MM-DD") %>  
-- **Estimated Completion:** {{ESTIMATED_COMPLETION}}
+- **Estimated Completion:** <% await tp.system.prompt("Estimated Completion") %> 
 
 ---
 
