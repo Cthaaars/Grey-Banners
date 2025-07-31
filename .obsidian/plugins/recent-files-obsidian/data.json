@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Index",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md"
+      "basename": "completed contract 01",
+      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/completed contract 01.md"
     },
     {
-      "basename": "3",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/3.md"
+      "basename": "External Rules",
+      "path": "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md"
+    },
+    {
+      "basename": "Contract Template",
+      "path": "Templates/Contract Template.md"
     },
     {
       "basename": "Example Contract",
       "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md"
+    },
+    {
+      "basename": "Clients",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md"
+    },
+    {
+      "basename": "3",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/3.md"
     },
     {
       "basename": "Grey Banner Company - Price List",
@@ -49,10 +65,6 @@
       "path": "Idea collection.md"
     },
     {
-      "basename": "Contract Template",
-      "path": "Templates/Contract Template.md"
-    },
-    {
       "basename": "Client Template",
       "path": "Templates/Client Template.md"
     },
@@ -61,20 +73,12 @@
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md"
     },
     {
-      "basename": "Clients",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md"
-    },
-    {
       "basename": "2",
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md"
     },
     {
       "basename": "Ced",
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md"
-    },
-    {
-      "basename": "External Rules",
-      "path": "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md"
     },
     {
       "basename": "Internal Rules",

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
+                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/completed contract 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "completed contract 01"
             }
           }
         ],
@@ -216,9 +216,13 @@
   },
   "active": "7dcacee01f8efe19",
   "lastOpenFiles": [
-    "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/3.md",
-    "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
+    "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md",
+    "Merc/Subsections/Grey Banner Company - Contracts & Jobs/completed contract 01.md",
+    "Templates/Contract Template.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md",
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/3.md",
     "Merc/Subsections/Grey Banner Company - Price List.md",
     "Merc/Subsections/Grey Banner Company - Possible Services.md",
     "Merc/Subsections/Grey Banner Company - Customer Levels.md",
@@ -229,13 +233,10 @@
     "Merc/Additional info.md",
     "Idea collection.md",
     "Tags",
-    "Templates/Contract Template.md",
     "Templates/Client Template.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
-    "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md",
-    "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/Internal Rules.md",
     "Untitled.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md",
@@ -243,7 +244,6 @@
     "60cf986b-33a7-43fd-a58f-444df632eeda.png",
     "Vault.md",
     "Merc/Merc.md",
-    "Clients.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients",
     "Merc/Subsections/Grey Banner Company - Reputation Log",

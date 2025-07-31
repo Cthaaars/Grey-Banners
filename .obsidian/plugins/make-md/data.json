@@ -51,7 +51,9 @@
     "//Merc/Merc/Subsections/Merc/Subsections/Grey Banner Company - Contracts & Jobs",
     "//Merc/Merc/Subsections/Merc/Subsections/Grey Banner Company - Reputation Log",
     "//Merc",
-    "//Merc/Merc/Subsections"
+    "//Merc/Merc/Subsections",
+    "//Templates",
+    "//Merc/Merc/Subsections/Merc/Subsections/Grey Banner Company - Rules of Conduct"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
