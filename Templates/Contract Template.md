@@ -1,4 +1,4 @@
-# Contract: GBC-<% tp.date.now("YYYY") %>-{{CLIENT_NAME}}
+# Contract: GBC-<% tp.date.now("YYYY") %>-<% await tp.system.prompt("Client Name/ID") %>
 
 **Contract ID:** GBC-<% tp.date.now("YYYY") %>-{{CONTRACT_NUMBER}}
 
@@ -6,7 +6,7 @@
 
 ## Client
 
-- **Name / Colony:** {{CLIENT_NAME}}  
+- **Name / Colony:** <% await tp.system.prompt("Client Name and Colony") %> 
 - **Customer Level (0–4):** {{CUSTOMER_LEVEL}}
 
 ---

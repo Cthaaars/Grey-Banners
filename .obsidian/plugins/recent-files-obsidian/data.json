@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md"
+      "basename": "Contract Template",
+      "path": "Templates/Contract Template.md"
+    },
+    {
+      "basename": "Client Template",
+      "path": "Templates/Client Template.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md"
+    },
+    {
+      "basename": "Grey Banner Company - Reputation Log",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md"
     },
     {
       "basename": "Clients",
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md"
     },
     {
-      "basename": "Index",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md"
+      "basename": "2",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md"
     },
     {
       "basename": "Ced",
@@ -19,18 +35,6 @@
     {
       "basename": "Grey Banner Company - Base Locations",
       "path": "Merc/Subsections/Grey Banner Company - Base Locations.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md"
-    },
-    {
-      "basename": "Contract Template",
-      "path": "Templates/Contract Template.md"
-    },
-    {
-      "basename": "Grey Banner Company - Reputation Log",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md"
     },
     {
       "basename": "External Rules",
@@ -83,10 +87,6 @@
     {
       "basename": "Merc's Internal Home",
       "path": "Merc/Merc's Internal Home.md"
-    },
-    {
-      "basename": "Client Template",
-      "path": "Templates/Client Template.md"
     },
     {
       "basename": "Vault",

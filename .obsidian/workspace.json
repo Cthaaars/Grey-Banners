@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md",
+                "file": "Templates/Contract Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2"
+              "title": "Contract Template"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md",
+                "file": "Templates/Contract Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2"
+              "title": "Backlinks for Contract Template"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md",
+                "file": "Templates/Contract Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2"
+              "title": "Outgoing links from Contract Template"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md",
+                "file": "Templates/Contract Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2"
+              "title": "Outline of Contract Template"
             }
           },
           {
@@ -205,13 +205,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md",
+    "Templates/Client Template.md",
+    "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md",
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md",
     "Merc/Subsections/Grey Banner Company - Base Locations.md",
-    "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
     "Templates/Contract Template.md",
-    "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/Internal Rules.md",
     "Idea collection.md",
@@ -226,13 +228,11 @@
     "Merc/Subsections/Subsections.md",
     "60cf986b-33a7-43fd-a58f-444df632eeda.png",
     "Merc/Merc's Internal Home.md",
-    "Templates/Client Template.md",
     "Vault.md",
     "Merc/Merc.md",
     "Clients.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/Grey Banner Company - Rules of Conduct.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct",
-    "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/1.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients",
     "Merc/Subsections/Grey Banner Company - Reputation Log",
     "Signatures",
