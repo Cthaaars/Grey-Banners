@@ -1,0 +1,161 @@
+/* Grey Banner Company Overview - Premium Dark Mode Styling with Animations */
+
+@keyframes glowPulse {
+    0%, 100% {
+        text-shadow: 0 0 8px rgba(90, 90, 173, 0.8);
+    }
+    50% {
+        text-shadow: 0 0 14px rgba(110, 110, 220, 1);
+    }
+}
+
+@keyframes flickerTextShadow {
+    0%, 100% {
+        text-shadow: 0 0 6px #c3c8ff;
+    }
+    50% {
+        text-shadow: 0 0 12px #e0e5ff;
+    }
+}
+
+@keyframes emojiGlow {
+    0%, 100% {
+        color: #a3a3ff;
+    }
+    50% {
+        color: #c3c8ff;
+    }
+}
+
+.markdown-preview-view {
+    max-width: 720px;
+    line-height: 1.6;
+    padding: 1.5em 2.5em;
+    background: linear-gradient(135deg, #222236, #1a1a2e);
+    border-radius: 10px;
+    box-shadow:
+    0 4px 10px rgba(25, 25, 60, 0.6),
+    inset 0 0 10px rgba(40, 40, 70, 0.9);
+    color: #d3d3e8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-smooth: antialiased;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    user-select: text;
+}
+
+/* Headings with subtle glow pulse */
+.markdown-preview-view h1 {
+    font-weight: 900;
+    font-size: 2.8em;
+    color: #d1d1ff;
+    border-bottom: 3px solid #5a5aad;
+    padding-bottom: 0.35em;
+    margin-bottom: 1.2em;
+    animation: glowPulse 4s ease-in-out infinite;
+}
+
+.markdown-preview-view h2 {
+    font-weight: 700;
+    color: #b3b3ff;
+    border-bottom: 1.5px solid #444499;
+    padding-bottom: 0.25em;
+    margin-top: 2em;
+    margin-bottom: 0.85em;
+    text-shadow: 0 0 5px rgba(68, 68, 153, 0.7);
+}
+
+.markdown-preview-view h3 {
+    font-weight: 600;
+    color: #9a9aff;
+    margin-top: 1.5em;
+    margin-bottom: 0.65em;
+    text-shadow: 0 0 3px rgba(154, 154, 255, 0.6);
+}
+
+/* Enhanced emoji bullets with glow on hover */
+.markdown-preview-view ul li::marker {
+    font-size: 1.3em;
+    color: #a3a3ff;
+    transition: color 0.3s ease;
+}
+
+.markdown-preview-view ul li::marker:hover {
+    animation: emojiGlow 2s ease-in-out infinite;
+    cursor: pointer;
+}
+
+/* Smooth emoji and list item spacing */
+.markdown-preview-view ul li {
+    font-size: 1.15em;
+    margin: 0.4em 0;
+    padding-left: 0.35em;
+    cursor: default;
+}
+
+/* Link styling with flickering text shadow on hover */
+.markdown-preview-view ul li a {
+    font-weight: 600;
+    color: #8ca0ff;
+    text-decoration: none;
+    transition: color 0.25s ease, text-shadow 0.25s ease;
+}
+
+.markdown-preview-view ul li a:hover {
+    color: #c3c8ff;
+    animation: flickerTextShadow 3s ease-in-out infinite;
+    text-decoration: underline;
+}
+
+/* Notes and italic text styling */
+.markdown-preview-view hr + p,
+.markdown-preview-view hr + ul + p {
+    font-style: italic;
+    color: #8b8bcf;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+    font-size: 0.92em;
+    line-height: 1.4;
+    user-select: text;
+}
+
+/* Stylish horizontal rule */
+.markdown-preview-view hr {
+    border: none;
+    border-top: 2px solid #444499;
+    margin: 2.2em 0 1.8em 0;
+    box-shadow: 0 1px 3px rgba(68, 68, 153, 0.5);
+}
+
+/* Code blocks with dark translucent background and glow */
+.markdown-preview-view pre,
+.markdown-preview-view code {
+    background: rgba(70, 70, 120, 0.7);
+    border-radius: 6px;
+    padding: 0.25em 0.4em;
+    font-family: 'Fira Mono', Consolas, monospace;
+    font-size: 0.95em;
+    color: #d1d1ff;
+    text-shadow: 0 0 3px rgba(130, 130, 180, 0.7);
+    user-select: text;
+}
+
+/* Text block styling inside code fences */
+.markdown-preview-view pre {
+    padding: 1em 1.2em;
+    overflow-x: auto;
+    box-shadow: inset 0 0 10px rgba(90, 90, 170, 0.9);
+}
+
+/* Smooth scroll for links in preview */
+.markdown-preview-view a {
+    transition: all 0.25s ease;
+}
+
+/* Responsive adjustments */
+@media (max-width: 720px) {
+    .markdown-preview-view {
+        max-width: 90vw;
+        padding: 1em 1.5em;
+    }
+}
