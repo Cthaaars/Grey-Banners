@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Additional info",
-      "path": "Merc/Additional info.md"
-    },
-    {
       "basename": "Grey Banner Company - Price List",
       "path": "Merc/Subsections/Grey Banner Company - Price List.md"
     },
     {
-      "basename": "Grey Banner Company - Contracts & Jobs",
-      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md"
+      "basename": "Grey Banner Company - Customer Levels",
+      "path": "Merc/Subsections/Grey Banner Company - Customer Levels.md"
     },
     {
       "basename": "Grey Banner Company - Possible Services",
       "path": "Merc/Subsections/Grey Banner Company - Possible Services.md"
     },
     {
-      "basename": "Grey Banner Company - Customer Levels",
-      "path": "Merc/Subsections/Grey Banner Company - Customer Levels.md"
+      "basename": "Grey Banner Company - ToDo List",
+      "path": "Merc/Subsections/Grey Banner Company - ToDo List.md"
+    },
+    {
+      "basename": "Additional info",
+      "path": "Merc/Additional info.md"
+    },
+    {
+      "basename": "Grey Banner Company - Contracts & Jobs",
+      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md"
     },
     {
       "basename": "Subsections",
@@ -59,10 +63,6 @@
     {
       "basename": "Client Template",
       "path": "Templates/Client Template.md"
-    },
-    {
-      "basename": "Grey Banner Company - ToDo List",
-      "path": "Merc/Subsections/Grey Banner Company - ToDo List.md"
     },
     {
       "basename": "Vault",

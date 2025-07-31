@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merc/Additional info.md",
+                "file": "Merc/Subsections/Grey Banner Company - Price List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Additional info"
+              "title": "Grey Banner Company - Price List"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Merc/Additional info.md",
+                "file": "Merc/Subsections/Grey Banner Company - Price List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Additional info"
+              "title": "Backlinks for Grey Banner Company - Price List"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Merc/Additional info.md",
+                "file": "Merc/Subsections/Grey Banner Company - Price List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Additional info"
+              "title": "Outgoing links from Grey Banner Company - Price List"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merc/Additional info.md",
+                "file": "Merc/Subsections/Grey Banner Company - Price List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Additional info"
+              "title": "Outline of Grey Banner Company - Price List"
             }
           },
           {
@@ -203,13 +203,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "929e4193ab6e5ae4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Merc/Subsections/Grey Banner Company - Customer Levels.md",
+    "Merc/Subsections/Grey Banner Company - Possible Services.md",
+    "Merc/Subsections/Grey Banner Company - ToDo List.md",
+    "Merc/Additional info.md",
     "Merc/Subsections/Grey Banner Company - Price List.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md",
-    "Merc/Subsections/Grey Banner Company - Possible Services.md",
-    "Merc/Subsections/Grey Banner Company - Customer Levels.md",
-    "Merc/Additional info.md",
     "Merc/Subsections/Subsections.md",
     "Merc/Grey Banner Company – Main Overview.md",
     "60cf986b-33a7-43fd-a58f-444df632eeda.png",
@@ -220,7 +221,6 @@
     "Templates/Contract Template.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
     "Templates/Client Template.md",
-    "Merc/Subsections/Grey Banner Company - ToDo List.md",
     "Vault.md",
     "Merc/Merc.md",
     "Merc/Subsections/Grey Banner Company - Base Locations.md",
