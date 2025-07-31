@@ -1,7 +1,8 @@
 # ⚔️ Grey Banner Company – Main Overview
 
 Welcome to the Grey Banner Company RP documentation hub.  
-Use this page to navigate all important information and tools for managing the company.![[60cf986b-33a7-43fd-a58f-444df632eeda.png]]
+Use this page to navigate all important information and tools for managing the company.
+![[60cf986b-33a7-43fd-a58f-444df632eeda.png]]
 
 ---
 

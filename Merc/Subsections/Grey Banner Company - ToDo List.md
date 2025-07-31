@@ -9,6 +9,7 @@ A running list of goals, projects, and pending tasks for the company.
 - [ ] Build **first base / HQ** in a hidden location
 - [ ] Gather starter gear and resources for jobs
 - [ ] Set up **advertising board or contact method** so players know how to hire us
+- [ ] Custom items for Coinage
 
 ---
 
