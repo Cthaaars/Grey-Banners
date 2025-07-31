@@ -9,6 +9,10 @@
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md"
     },
     {
+      "basename": "Grey Banner Company - Customer Levels",
+      "path": "Merc/Subsections/Grey Banner Company - Customer Levels.md"
+    },
+    {
       "basename": "Merc's Internal Home",
       "path": "Merc/Merc's Internal Home.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Grey Banner Company - Possible Services",
       "path": "Merc/Subsections/Grey Banner Company - Possible Services.md"
-    },
-    {
-      "basename": "Grey Banner Company - Customer Levels",
-      "path": "Merc/Subsections/Grey Banner Company - Customer Levels.md"
     },
     {
       "basename": "Grey Banner Company - ToDo List",
