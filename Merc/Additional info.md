@@ -13,7 +13,6 @@ These will be custom KubeJS items with textures:
 - **Ʉ Bar** – value 100
     
 
-_(Optional: texture them with your banner emblem for maximum immersion.)_
 
 ---
 

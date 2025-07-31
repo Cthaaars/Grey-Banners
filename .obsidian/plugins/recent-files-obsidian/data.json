@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Additional info",
+      "path": "Merc/Additional info.md"
+    },
+    {
       "basename": "Merc's Internal Home",
       "path": "Merc/Merc's Internal Home.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Contract Template",
       "path": "Templates/Contract Template.md"
-    },
-    {
-      "basename": "Additional info",
-      "path": "Merc/Additional info.md"
     }
   ],
   "omittedPaths": [],
