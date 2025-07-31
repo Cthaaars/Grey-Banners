@@ -34,9 +34,9 @@ These will be custom KubeJS items with textures:
 
 To keep the economy controlled, mint **about 500 Ʉ worth of currency at the start**:
 
-- 200 × Ʉ1 coins
-- 25 × Ʉ10 notes
-- 1 × Ʉ100 bar
+- 200 × 1 coins
+- 25 × 10 notes
+- 1 × 100 bar
 
 That equals **(200 × 1) + (25 × 10) + (1 × 100) = 500 Ʉ** total.
 
