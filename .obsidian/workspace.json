@@ -21,14 +21,14 @@
             "id": "7dcacee01f8efe19",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/make-md/Spaces.mdb",
-                "bFile": ".obsidian/plugins/make-md/Spaces.mdb",
-                "aRef": ""
+                "file": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Spaces.mdb"
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ],
@@ -216,27 +216,28 @@
   },
   "active": "7dcacee01f8efe19",
   "lastOpenFiles": [
-    "Tags",
-    "Merc/Grey Banner Company – Main Overview.md",
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/3.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
+    "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
+    "Merc/Subsections/Grey Banner Company - Price List.md",
+    "Merc/Subsections/Grey Banner Company - Possible Services.md",
     "Merc/Subsections/Grey Banner Company - Customer Levels.md",
     "Merc/Merc's Internal Home.md",
+    "Merc/Subsections/Grey Banner Company - Base Locations.md",
+    "Merc/Subsections/Grey Banner Company - ToDo List.md",
+    "Merc/Grey Banner Company – Main Overview.md",
     "Merc/Additional info.md",
-    "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
+    "Idea collection.md",
+    "Tags",
     "Templates/Contract Template.md",
     "Templates/Client Template.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md",
-    "Merc/Subsections/Grey Banner Company - Base Locations.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/Internal Rules.md",
-    "Idea collection.md",
     "Untitled.md",
-    "Merc/Subsections/Grey Banner Company - Price List.md",
-    "Merc/Subsections/Grey Banner Company - Possible Services.md",
-    "Merc/Subsections/Grey Banner Company - ToDo List.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md",
     "Merc/Subsections/Subsections.md",
     "60cf986b-33a7-43fd-a58f-444df632eeda.png",

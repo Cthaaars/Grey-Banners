@@ -10,7 +10,7 @@ Click on a client name to view their detailed reputation page.
 | [[Ced]]             | admin          | -                   | 0 Ʉ                  | owner       |
 | [[1 \| Varisho]]    | 0              | 0                   | 10 Ʉ                 |             |
 | [[2 \| Beastgames]] | 0              | 0                   | 0 Ʉ                  |             |
-| [[3]]               | 0              | 0                   | 0 Ʉ                  | Not indexed |
+| [[3\| Apolhoe]]     | 0              | 0                   | 0 Ʉ                  | Fag         |
 | [[4]]               | 0              | 0                   | 0 Ʉ                  | Not indexed |
 | [[5]]               | 0              | 0                   | 0 Ʉ                  | Not indexed |
 | [[6]]               | 0              | 0                   | 0 Ʉ                  | Not indexed |

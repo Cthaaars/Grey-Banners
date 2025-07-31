@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Grey Banner Company – Main Overview",
-      "path": "Merc/Grey Banner Company – Main Overview.md"
-    },
-    {
       "basename": "Index",
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md"
+    },
+    {
+      "basename": "3",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/3.md"
+    },
+    {
+      "basename": "Example Contract",
+      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md"
+    },
+    {
+      "basename": "Grey Banner Company - Price List",
+      "path": "Merc/Subsections/Grey Banner Company - Price List.md"
+    },
+    {
+      "basename": "Grey Banner Company - Possible Services",
+      "path": "Merc/Subsections/Grey Banner Company - Possible Services.md"
     },
     {
       "basename": "Grey Banner Company - Customer Levels",
@@ -17,12 +29,24 @@
       "path": "Merc/Merc's Internal Home.md"
     },
     {
+      "basename": "Grey Banner Company - Base Locations",
+      "path": "Merc/Subsections/Grey Banner Company - Base Locations.md"
+    },
+    {
+      "basename": "Grey Banner Company - ToDo List",
+      "path": "Merc/Subsections/Grey Banner Company - ToDo List.md"
+    },
+    {
+      "basename": "Grey Banner Company – Main Overview",
+      "path": "Merc/Grey Banner Company – Main Overview.md"
+    },
+    {
       "basename": "Additional info",
       "path": "Merc/Additional info.md"
     },
     {
-      "basename": "Example Contract",
-      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md"
+      "basename": "Idea collection",
+      "path": "Idea collection.md"
     },
     {
       "basename": "Contract Template",
@@ -49,32 +73,12 @@
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md"
     },
     {
-      "basename": "Grey Banner Company - Base Locations",
-      "path": "Merc/Subsections/Grey Banner Company - Base Locations.md"
-    },
-    {
       "basename": "External Rules",
       "path": "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md"
     },
     {
       "basename": "Internal Rules",
       "path": "Merc/Subsections/Grey Banner Company - Rules of Conduct/Internal Rules.md"
-    },
-    {
-      "basename": "Idea collection",
-      "path": "Idea collection.md"
-    },
-    {
-      "basename": "Grey Banner Company - Price List",
-      "path": "Merc/Subsections/Grey Banner Company - Price List.md"
-    },
-    {
-      "basename": "Grey Banner Company - Possible Services",
-      "path": "Merc/Subsections/Grey Banner Company - Possible Services.md"
-    },
-    {
-      "basename": "Grey Banner Company - ToDo List",
-      "path": "Merc/Subsections/Grey Banner Company - ToDo List.md"
     },
     {
       "basename": "Grey Banner Company - Contracts & Jobs",
@@ -115,10 +119,6 @@
     {
       "basename": "4",
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/4.md"
-    },
-    {
-      "basename": "3",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/3.md"
     },
     {
       "basename": "Templates",
