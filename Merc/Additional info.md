@@ -30,6 +30,17 @@ These will be custom KubeJS items with textures:
 - Payment for contracts must be made in Banner Scrip (Ʉ) or in rare barter items at negotiated rates.
     
 
+# **Initial Currency Amount**
+
+To keep the economy controlled, mint **about 500 Ʉ worth of currency at the start**:
+
+- 200 × Ʉ1 coins
+- 25 × Ʉ10 notes
+- 1 × Ʉ100 bar
+
+That equals **(200 × 1) + (25 × 10) + (1 × 100) = 500 Ʉ** total.
+
+
 ---
 
 # **Grey Banner Logo in Minecraft (Banner Design)**

@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Grey Banner Company – Main Overview",
-      "path": "Merc/Grey Banner Company – Main Overview.md"
-    },
-    {
       "basename": "Additional info",
       "path": "Merc/Additional info.md"
     },
     {
-      "basename": "Merc's Internal Home",
-      "path": "Merc/Merc's Internal Home.md"
+      "basename": "Grey Banner Company - Price List",
+      "path": "Merc/Subsections/Grey Banner Company - Price List.md"
+    },
+    {
+      "basename": "Grey Banner Company - Contracts & Jobs",
+      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md"
+    },
+    {
+      "basename": "Grey Banner Company - Possible Services",
+      "path": "Merc/Subsections/Grey Banner Company - Possible Services.md"
+    },
+    {
+      "basename": "Grey Banner Company - Customer Levels",
+      "path": "Merc/Subsections/Grey Banner Company - Customer Levels.md"
     },
     {
       "basename": "Subsections",
       "path": "Merc/Subsections/Subsections.md"
+    },
+    {
+      "basename": "Grey Banner Company – Main Overview",
+      "path": "Merc/Grey Banner Company – Main Overview.md"
+    },
+    {
+      "basename": "60cf986b-33a7-43fd-a58f-444df632eeda",
+      "path": "60cf986b-33a7-43fd-a58f-444df632eeda.png"
+    },
+    {
+      "basename": "Merc's Internal Home",
+      "path": "Merc/Merc's Internal Home.md"
     },
     {
       "basename": "Index",
@@ -41,24 +61,12 @@
       "path": "Templates/Client Template.md"
     },
     {
-      "basename": "Grey Banner Company - Price List",
-      "path": "Merc/Subsections/Grey Banner Company - Price List.md"
-    },
-    {
       "basename": "Grey Banner Company - ToDo List",
       "path": "Merc/Subsections/Grey Banner Company - ToDo List.md"
     },
     {
       "basename": "Vault",
       "path": "Vault.md"
-    },
-    {
-      "basename": "Grey Banner Company - Possible Services",
-      "path": "Merc/Subsections/Grey Banner Company - Possible Services.md"
-    },
-    {
-      "basename": "Grey Banner Company - Customer Levels",
-      "path": "Merc/Subsections/Grey Banner Company - Customer Levels.md"
     },
     {
       "basename": "Merc",
@@ -75,10 +83,6 @@
     {
       "basename": "Untitled",
       "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md"
-    },
-    {
-      "basename": "Grey Banner Company - Contracts & Jobs",
-      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md"
     },
     {
       "basename": "External Rules",
