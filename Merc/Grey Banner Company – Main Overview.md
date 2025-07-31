@@ -42,7 +42,6 @@ Use this page to navigate all important information and tools for managing the c
 
 ## 📝 Notes
 
-- Update this overview page as your company grows.  
-- Use consistent naming conventions for new pages.
+
 
 ---
