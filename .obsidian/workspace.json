@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Possible Services.md",
+                "file": "Merc/Additional info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grey Banner Company - Possible Services"
+              "title": "Additional info"
             }
           }
         ]
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Possible Services.md",
+                "file": "Merc/Additional info.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Grey Banner Company - Possible Services"
+              "title": "Outline of Additional info"
             }
           },
           {
@@ -205,6 +205,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Merc/Subsections/Grey Banner Company - Price List.md",
+    "Merc/Subsections/Grey Banner Company - Possible Services.md",
     "Merc/Subsections/Grey Banner Company - Customer Levels.md",
     "Merc/Subsections/Grey Banner Company - ToDo List.md",
     "Merc/Merc's Internal Home.md",
@@ -219,8 +221,6 @@
     "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md",
-    "Merc/Subsections/Grey Banner Company - Price List.md",
-    "Merc/Subsections/Grey Banner Company - Possible Services.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/Internal Rules.md",
     "Clients.md",
