@@ -5,20 +5,52 @@
       "path": "Merc/Grey Banner Company – Main Overview.md"
     },
     {
-      "basename": "Idea collection",
-      "path": "Idea collection.md"
-    },
-    {
-      "basename": "Vault",
-      "path": "Vault.md"
-    },
-    {
       "basename": "Additional info",
       "path": "Merc/Additional info.md"
     },
     {
+      "basename": "Merc's Internal Home",
+      "path": "Merc/Merc's Internal Home.md"
+    },
+    {
+      "basename": "Subsections",
+      "path": "Merc/Subsections/Subsections.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md"
+    },
+    {
+      "basename": "Ced",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md"
+    },
+    {
+      "basename": "Idea collection",
+      "path": "Idea collection.md"
+    },
+    {
+      "basename": "Contract Template",
+      "path": "Templates/Contract Template.md"
+    },
+    {
+      "basename": "Grey Banner Company - Reputation Log",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md"
+    },
+    {
+      "basename": "Client Template",
+      "path": "Templates/Client Template.md"
+    },
+    {
       "basename": "Grey Banner Company - Price List",
       "path": "Merc/Subsections/Grey Banner Company - Price List.md"
+    },
+    {
+      "basename": "Grey Banner Company - ToDo List",
+      "path": "Merc/Subsections/Grey Banner Company - ToDo List.md"
+    },
+    {
+      "basename": "Vault",
+      "path": "Vault.md"
     },
     {
       "basename": "Grey Banner Company - Possible Services",
@@ -29,14 +61,6 @@
       "path": "Merc/Subsections/Grey Banner Company - Customer Levels.md"
     },
     {
-      "basename": "Grey Banner Company - ToDo List",
-      "path": "Merc/Subsections/Grey Banner Company - ToDo List.md"
-    },
-    {
-      "basename": "Merc's Internal Home",
-      "path": "Merc/Merc's Internal Home.md"
-    },
-    {
       "basename": "Merc",
       "path": "Merc/Merc.md"
     },
@@ -45,20 +69,8 @@
       "path": "Merc/Subsections/Grey Banner Company - Base Locations.md"
     },
     {
-      "basename": "Ced",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md"
-    },
-    {
       "basename": "Clients",
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md"
-    },
-    {
-      "basename": "Grey Banner Company - Reputation Log",
-      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md"
     },
     {
       "basename": "Untitled",
@@ -85,10 +97,6 @@
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/1.md"
     },
     {
-      "basename": "Client Template",
-      "path": "Templates/Client Template.md"
-    },
-    {
       "basename": "6",
       "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/6.md"
     },
@@ -111,10 +119,6 @@
     {
       "basename": "Templates",
       "path": "Templates/Templates.md"
-    },
-    {
-      "basename": "Contract Template",
-      "path": "Templates/Contract Template.md"
     }
   ],
   "omittedPaths": [],
