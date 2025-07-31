@@ -58,13 +58,11 @@
 
 ## Signatures
 
-
 - **Client Signature:** {{CLIENT_SIGNATURE}}  
-
+- **Grey Banner Representative Signature:** {{COMPANY_SIGNATURE}}
 
 ---
 
-- **Grey Banner Signature:** 
 ```
 ╔══════════════════════════════════╗
 ║ ██████╗ ██████╗  ██████╗         ║

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea collection.md",
+                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idea collection"
+              "title": "Untitled"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idea collection.md",
+                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Idea collection"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea collection.md",
+                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Idea collection"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idea collection.md",
+                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Idea collection"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -205,8 +205,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Templates/Contract Template.md",
+    "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
+    "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md",
+    "Merc/Subsections/Grey Banner Company - Rules of Conduct/Internal Rules.md",
     "Idea collection.md",
+    "Untitled.md",
     "Merc/Subsections/Grey Banner Company - Price List.md",
     "Merc/Subsections/Grey Banner Company - Possible Services.md",
     "Merc/Subsections/Grey Banner Company - Customer Levels.md",
@@ -214,21 +219,16 @@
     "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
     "Merc/Grey Banner Company – Main Overview.md",
     "Merc/Subsections/Grey Banner Company - Base Locations.md",
-    "Merc/Subsections/Grey Banner Company - Rules of Conduct/Internal Rules.md",
-    "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md",
     "Merc/Additional info.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md",
     "Merc/Subsections/Subsections.md",
     "60cf986b-33a7-43fd-a58f-444df632eeda.png",
     "Merc/Merc's Internal Home.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md",
-    "Templates/Contract Template.md",
-    "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
     "Templates/Client Template.md",
     "Vault.md",
     "Merc/Merc.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md",
-    "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
     "Clients.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/Grey Banner Company - Rules of Conduct.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct",
