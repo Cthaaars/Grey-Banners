@@ -13,7 +13,7 @@ Loyal and trustworthy clients gain access to more **exclusive services** as they
 ---
 
 ## Level 1 – Known Contact
-- **Requirements:** Successfully completed 3 contract
+- **Requirements:** Successfully completed 2 contract
 - **Access:** 
   - Standard jobs, including:  
     - Larger construction work
@@ -24,7 +24,7 @@ Loyal and trustworthy clients gain access to more **exclusive services** as they
 ---
 
 ## Level 2 – Trusted Client
-- **Requirements:** 6 successful contracts with no betrayals
+- **Requirements:** 5 successful contracts with no betrayals
 - **Access:** 
   - Everything from Level 1
   - Specialized services such as:
