@@ -7,14 +7,14 @@ This page tracks everything about the company – operations, clients, bases, an
 
 ## Links / Sections
 
-- [[Mercenary Company - ToDo List]]
-- [[Mercenary Company - Base Locations]]
-- [[Mercenary Company - Possible Services]]
-- [[Mercenary Company - Price List]]
-- [[Mercenary Company - Customer Levels]]
-- [[Mercenary Company - Contracts & Jobs]]
-- [[Mercenary Company - Rules of Conduct]]
-- [[Mercenary Company - Reputation Log]] _(record relations with colonies/players)_
+- [[Grey Banner Company - ToDo List]]
+- [[Grey Banner Company - Base Locations]]
+- [[Grey Banner Company - Possible Services]]
+- [[Grey Banner Company - Price List]]
+- [[Grey Banner Company - Customer Levels]]
+- [[Grey Banner Company - Contracts & Jobs]]
+- [[Grey Banner Company - Rules of Conduct]]
+- [[Grey Banner Company - Reputation Log]] _(record relations with colonies/players)_
 
 ---
 

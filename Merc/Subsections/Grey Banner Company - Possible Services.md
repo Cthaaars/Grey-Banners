@@ -69,4 +69,4 @@ Services expand as trust is built.
 
 ## Notes
 - All services are negotiable; pricing depends on difficulty, time, and risk.
-- See [[Mercenary Company - Price List]] for suggested prices.
+- See [[Grey Banner Company - Price List]] for suggested prices.

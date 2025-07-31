@@ -13,23 +13,23 @@ Use this page to navigate all important information and tools for managing the c
 ## 🗂️ Subsections
 
 ### 📜 Rules of Conduct  
-- 📃 [[Subsections/Mercenary Company - Rules of Conduct/External Rules]]  
-- 🛡️ [[Subsections/Mercenary Company - Rules of Conduct/Internal Rules]]
+- 📃 [[External Rules]]  
+- 🛡️ [[Internal Rules]]
 
 ### 📑 Contracts & Jobs  
-- 📝 [[Subsections/Mercenary Company - Contracts & Jobs/Untitled]] *(Add your contracts here)*
+- 📝 [[Untitled]] *(Add your contracts here)*
 
 ### 📊 Reputation Log  
-- 📇 [[Subsections/Mercenary Company - Reputation Log/Index]] — Main reputation index  
+- 📇 [[Index]] — Main reputation index  
 
 
 ## 📖 Other Core Pages
 
-- 💰 [[Subsections/Mercenary Company - Price List]]  
-- 🛠️ [[Subsections/Mercenary Company - Possible Services]]  
-- ⭐ [[Subsections/Mercenary Company - Customer Levels]]  
-- 🏠 [[Subsections/Mercenary Company - Base Locations]]  
-- ✅ [[Subsections/Mercenary Company - ToDo List]]
+- 💰 [[Grey Banner Company - Price List]]  
+- 🛠️ [[Grey Banner Company - Possible Services]]  
+- ⭐ [[Grey Banner Company - Customer Levels]]  
+- 🏠 [[Grey Banner Company - Base Locations]]  
+- ✅ [[Grey Banner Company - ToDo List]]
 
 ---
 

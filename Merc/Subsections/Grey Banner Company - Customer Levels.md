@@ -13,7 +13,7 @@ Loyal and trustworthy clients gain access to more **exclusive services** as they
 ---
 
 ## Level 1 – Known Contact
-- **Requirements:** Successfully completed 1 contract
+- **Requirements:** Successfully completed 3 contract
 - **Access:** 
   - Standard jobs, including:  
     - Larger construction work
@@ -24,7 +24,7 @@ Loyal and trustworthy clients gain access to more **exclusive services** as they
 ---
 
 ## Level 2 – Trusted Client
-- **Requirements:** 3 successful contracts with no betrayals
+- **Requirements:** 6 successful contracts with no betrayals
 - **Access:** 
   - Everything from Level 1
   - Specialized services such as:
@@ -37,7 +37,7 @@ Loyal and trustworthy clients gain access to more **exclusive services** as they
 ---
 
 ## Level 3 – Partner
-- **Requirements:** 5+ successful contracts, proven loyalty
+- **Requirements:** 10+ successful contracts, proven loyalty
 - **Access:** 
   - All services (including assassination, smuggling, intelligence gathering)
   - **Discount begins here (10%)**
@@ -64,5 +64,5 @@ Loyal and trustworthy clients gain access to more **exclusive services** as they
 ---
 
 ## Tracking
-- Maintain a log of each client in [[Mercenary Company - Reputation Log]].
+- Maintain a log of each client in [[Grey Banner Company - Reputation Log]].
 - Update after each contract.

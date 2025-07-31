@@ -1,68 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "External Rules",
-      "path": "Merc/Subsections/Mercenary Company - Rules of Conduct/External Rules.md"
-    },
-    {
-      "basename": "Additional info",
-      "path": "Merc/Additional info.md"
-    },
-    {
-      "basename": "Merc's Internal Home",
-      "path": "Merc/Merc's Internal Home.md"
-    },
-    {
-      "basename": "Grey Banner Company – Main Overview",
-      "path": "Merc/Grey Banner Company – Main Overview.md"
-    },
-    {
-      "basename": "Mercenary Company - Price List",
-      "path": "Merc/Subsections/Mercenary Company - Price List.md"
-    },
-    {
       "basename": "Idea collection",
       "path": "Idea collection.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Index.md"
-    },
-    {
-      "basename": "Ced",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Ced.md"
-    },
-    {
-      "basename": "Clients",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Clients/Clients.md"
-    },
-    {
-      "basename": "Internal Rules",
-      "path": "Merc/Subsections/Mercenary Company - Rules of Conduct/Internal Rules.md"
     },
     {
       "basename": "Merc",
       "path": "Merc/Merc.md"
     },
     {
-      "basename": "Mercenary Company - Rules of Conduct",
-      "path": "Merc/Subsections/Mercenary Company - Rules of Conduct/Mercenary Company - Rules of Conduct.md"
+      "basename": "Merc's Internal Home",
+      "path": "Merc/Merc's Internal Home.md"
     },
     {
-      "basename": "Mercenary Company - Customer Levels",
-      "path": "Merc/Subsections/Mercenary Company - Customer Levels.md"
+      "basename": "Additional info",
+      "path": "Merc/Additional info.md"
     },
     {
-      "basename": "Mercenary Company - Base Locations",
-      "path": "Merc/Subsections/Mercenary Company - Base Locations.md"
+      "basename": "Grey Banner Company - Base Locations",
+      "path": "Merc/Subsections/Grey Banner Company - Base Locations.md"
     },
     {
-      "basename": "Mercenary Company - Possible Services",
-      "path": "Merc/Subsections/Mercenary Company - Possible Services.md"
+      "basename": "Ced",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md"
+    },
+    {
+      "basename": "Clients",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md"
+    },
+    {
+      "basename": "Grey Banner Company - Reputation Log",
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md"
+    },
+    {
+      "basename": "Grey Banner Company - Contracts & Jobs",
+      "path": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md"
+    },
+    {
+      "basename": "Grey Banner Company - Price List",
+      "path": "Merc/Subsections/Grey Banner Company - Price List.md"
+    },
+    {
+      "basename": "Grey Banner Company - Possible Services",
+      "path": "Merc/Subsections/Grey Banner Company - Possible Services.md"
+    },
+    {
+      "basename": "Grey Banner Company - Customer Levels",
+      "path": "Merc/Subsections/Grey Banner Company - Customer Levels.md"
+    },
+    {
+      "basename": "External Rules",
+      "path": "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md"
+    },
+    {
+      "basename": "Internal Rules",
+      "path": "Merc/Subsections/Grey Banner Company - Rules of Conduct/Internal Rules.md"
+    },
+    {
+      "basename": "Grey Banner Company - ToDo List",
+      "path": "Merc/Subsections/Grey Banner Company - ToDo List.md"
+    },
+    {
+      "basename": "Grey Banner Company – Main Overview",
+      "path": "Merc/Grey Banner Company – Main Overview.md"
+    },
+    {
+      "basename": "Grey Banner Company - Rules of Conduct",
+      "path": "Merc/Subsections/Grey Banner Company - Rules of Conduct/Grey Banner Company - Rules of Conduct.md"
     },
     {
       "basename": "1",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Clients/1.md"
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/1.md"
     },
     {
       "basename": "Client Template",
@@ -70,43 +86,27 @@
     },
     {
       "basename": "6",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Clients/6.md"
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/6.md"
     },
     {
       "basename": "5",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Clients/5.md"
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/5.md"
     },
     {
       "basename": "4",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Clients/4.md"
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/4.md"
     },
     {
       "basename": "3",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Clients/3.md"
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/3.md"
     },
     {
       "basename": "2",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Clients/2.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Merc/Subsections/Mercenary Company - Contracts & Jobs/Untitled.md"
+      "path": "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md"
     },
     {
       "basename": "Templates",
       "path": "Templates/Templates.md"
-    },
-    {
-      "basename": "Mercenary Company - Contracts & Jobs",
-      "path": "Merc/Subsections/Mercenary Company - Contracts & Jobs/Mercenary Company - Contracts & Jobs.md"
-    },
-    {
-      "basename": "Mercenary Company - Reputation Log",
-      "path": "Merc/Subsections/Mercenary Company - Reputation Log/Mercenary Company - Reputation Log.md"
-    },
-    {
-      "basename": "Mercenary Company - ToDo List",
-      "path": "Merc/Subsections/Mercenary Company - ToDo List.md"
     },
     {
       "basename": "Contract Template",
