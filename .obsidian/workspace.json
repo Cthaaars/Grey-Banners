@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
+                "file": "Merc/Grey Banner Company – Main Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example Contract"
+              "title": "Grey Banner Company – Main Overview"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
+                "file": "Merc/Grey Banner Company – Main Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Example Contract"
+              "title": "Backlinks for Grey Banner Company – Main Overview"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
+                "file": "Merc/Grey Banner Company – Main Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Example Contract"
+              "title": "Outgoing links from Grey Banner Company – Main Overview"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
+                "file": "Merc/Grey Banner Company – Main Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Example Contract"
+              "title": "Outline of Grey Banner Company – Main Overview"
             }
           },
           {
@@ -203,13 +203,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30fb3010bfb6bbee",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Templates/Contract Template.md",
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
+    "Merc/Grey Banner Company – Main Overview.md",
+    "Merc/Merc's Internal Home.md",
+    "Merc/Additional info.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
+    "Templates/Contract Template.md",
     "Templates/Client Template.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
-    "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Ced.md",
@@ -222,12 +225,9 @@
     "Merc/Subsections/Grey Banner Company - Possible Services.md",
     "Merc/Subsections/Grey Banner Company - Customer Levels.md",
     "Merc/Subsections/Grey Banner Company - ToDo List.md",
-    "Merc/Grey Banner Company – Main Overview.md",
-    "Merc/Additional info.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md",
     "Merc/Subsections/Subsections.md",
     "60cf986b-33a7-43fd-a58f-444df632eeda.png",
-    "Merc/Merc's Internal Home.md",
     "Vault.md",
     "Merc/Merc.md",
     "Clients.md",

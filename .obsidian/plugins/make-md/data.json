@@ -50,8 +50,8 @@
     "//Merc/Merc/Subsections/Merc/Subsections/Mercenary Company - Rules of Conduct",
     "//Merc",
     "//Merc/Merc/Subsections",
-    "//Merc/Merc/Subsections/Merc/Subsections/Grey Banner Company - Rules of Conduct",
-    "//Merc/Merc/Subsections/Merc/Subsections/Grey Banner Company - Contracts & Jobs"
+    "//Merc/Merc/Subsections/Merc/Subsections/Grey Banner Company - Contracts & Jobs",
+    "//Merc/Merc/Subsections/Merc/Subsections/Grey Banner Company - Reputation Log"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -69,7 +69,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,

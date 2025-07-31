@@ -8,7 +8,7 @@ Click on a client name to view their detailed reputation page.
 | Client Name/id      | Customer Level | Contracts Completed | Banner Scrip Balance | Notes       |
 | ------------------- | -------------- | ------------------- | -------------------- | ----------- |
 | [[Ced]]             | admin          | -                   | 0 Ʉ                  | owner       |
-| [[1 \| Varisho]]    | 0              | 0                   | 0 Ʉ                  |             |
+| [[1 \| Varisho]]    | 0              | 0                   | 10 Ʉ                 |             |
 | [[2 \| Beastgames]] | 0              | 0                   | 0 Ʉ                  |             |
 | [[3]]               | 0              | 0                   | 0 Ʉ                  | Not indexed |
 | [[4]]               | 0              | 0                   | 0 Ʉ                  | Not indexed |
