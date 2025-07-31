@@ -4,7 +4,7 @@
 - would need locations in every major colony and collection of ppl.
 
 
-see [[Merc's main]] for all related documents
+see [[Merc's Internal Home]] for all related documents
 
 
 

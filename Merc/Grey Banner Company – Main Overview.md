@@ -7,7 +7,7 @@ Use this page to navigate all important information and tools for managing the c
 
 ## 🏢 Mercenary Company Core
 
-- 📋 [[Merc's main]] — General company overview and info  
+- 📋 [[Merc's Internal Home]] — General company overview and info  
 - 🗂️ [[Additional info]] — Miscellaneous information and notes
 
 ## 🗂️ Subsections
