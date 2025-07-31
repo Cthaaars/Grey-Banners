@@ -18,7 +18,7 @@ Use this page to navigate all important information and tools for managing the c
 - 🛡️ [[Internal Rules]]
 
 ### 📑 Contracts & Jobs  
-- 📝 [[Untitled]] *(Add your contracts here)*
+- 📝 [[Example Contract]] *(Add your contracts here)*
 
 ### 📊 Reputation Log  
 - 📇 [[Index]] — Main reputation index  

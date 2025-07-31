@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Contract Template.md",
+                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contract Template"
+              "title": "Example Contract"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Contract Template.md",
+                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Contract Template"
+              "title": "Backlinks for Example Contract"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Contract Template.md",
+                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Contract Template"
+              "title": "Outgoing links from Example Contract"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Contract Template.md",
+                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Contract Template"
+              "title": "Outline of Example Contract"
             }
           },
           {
@@ -203,10 +203,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "30fb3010bfb6bbee",
   "lastOpenFiles": [
-    "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Untitled.md",
     "Templates/Contract Template.md",
+    "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
     "Templates/Client Template.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Grey Banner Company - Reputation Log.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
