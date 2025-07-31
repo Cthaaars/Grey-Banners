@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merc/Additional info.md",
+                "file": "Merc/Subsections/Mercenary Company - Rules of Conduct/External Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Additional info"
+              "title": "External Rules"
             }
           }
         ]
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merc/Additional info.md",
+                "file": "Merc/Subsections/Mercenary Company - Rules of Conduct/External Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Additional info"
+              "title": "Outline of External Rules"
             }
           },
           {
@@ -205,6 +205,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Merc/Additional info.md",
     "Merc/Merc's Internal Home.md",
     "Merc/Grey Banner Company – Main Overview.md",
     "Merc/Subsections/Mercenary Company - Price List.md",
@@ -232,7 +233,6 @@
     "Merc/Subsections/Mercenary Company - Reputation Log/Clients",
     "Merc/Subsections/Mercenary Company - Contracts & Jobs/Untitled.md",
     "Templates/Templates.md",
-    "Merc/Subsections/Mercenary Company - Contracts & Jobs/Mercenary Company - Contracts & Jobs.md",
     "Merc/Subsections/Mercenary Company - Reputation Log",
     "Signatures",
     "Tags",
