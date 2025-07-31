@@ -11,17 +11,28 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Merc/Grey Banner Company – Main Overview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Grey Banner Company – Main Overview"
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7dcacee01f8efe19",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/make-md/Spaces.mdb",
+                "bFile": ".obsidian/plugins/make-md/Spaces.mdb",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Spaces.mdb"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             }
           },
           {
-            "id": "30fb3010bfb6bbee",
+            "id": "ec4d651db11b07cb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,11 +214,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7dcacee01f8efe19",
   "lastOpenFiles": [
+    "Tags",
+    "Merc/Grey Banner Company – Main Overview.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
     "Merc/Subsections/Grey Banner Company - Customer Levels.md",
-    "Merc/Grey Banner Company – Main Overview.md",
     "Merc/Merc's Internal Home.md",
     "Merc/Additional info.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
@@ -231,12 +243,10 @@
     "Vault.md",
     "Merc/Merc.md",
     "Clients.md",
-    "Merc/Subsections/Grey Banner Company - Rules of Conduct/Grey Banner Company - Rules of Conduct.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients",
     "Merc/Subsections/Grey Banner Company - Reputation Log",
     "Signatures",
-    "Tags",
     "Templates",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs",
     "Merc/Subsections",
