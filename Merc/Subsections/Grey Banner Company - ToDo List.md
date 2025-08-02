@@ -9,7 +9,7 @@ A running list of goals, projects, and pending tasks for the company.
 - [ ] Build **first base / HQ** in a hidden location
 - [ ] Gather starter gear and resources for jobs
 - [ ] Set up **advertising board or contact method** so players know how to hire us
-- [ ] Custom items for Coinage
+
 
 ---
 
@@ -47,3 +47,4 @@ A running list of goals, projects, and pending tasks for the company.
 - [x] Design a **contract template** (written book) ✅ 2025-07-31
 - [x] Work out a Internal Currency system (possibility of expanding to the whole Server) ✅ 2025-07-31
 - [x] Define a **services list and starting prices** ✅ 2025-07-31
+- [x] Custom items for Coinage ✅ 2025-08-02
