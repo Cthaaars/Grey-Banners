@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea collection.md",
+                "file": "Merc/Additional info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idea collection"
+              "title": "Additional info"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "4920dcaec7f59b0c",
+            "id": "2136b8bb0e9a26cc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -206,6 +206,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
+    "Idea collection.md",
     "Merc/Grey Banner Company – Main Overview.md",
     "Merc/Subsections/Grey Banner Company - Base Locations.md",
     "e83440ec-df90-4c5d-b6d1-7da4143b011b-tldrawFile.png",
@@ -219,7 +221,6 @@
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/2.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/1.md",
     "Merc/Subsections/Grey Banner Company - Reputation Log/Clients/Clients.md",
-    "Merc/Subsections/Grey Banner Company - Reputation Log/Index.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/completed contract 01.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Example Contract.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Grey Banner Company - Contracts & Jobs.md",
@@ -228,7 +229,6 @@
     "Merc/Subsections/Grey Banner Company - Customer Levels.md",
     "Merc/Merc's Internal Home.md",
     "Merc/Subsections/Subsections.md",
-    "Idea collection.md",
     "Merc/Subsections/Grey Banner Company - Rules of Conduct/External Rules.md",
     "Templates/Contract Template.md",
     "Tags",
