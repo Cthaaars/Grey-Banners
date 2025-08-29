@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Contract ced 01.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.9.12"
               },
-              "icon": "lucide-file",
-              "title": "Contract ced 01"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ]
@@ -85,7 +83,7 @@
             }
           },
           {
-            "id": "7a7c60dff5d27eb1",
+            "id": "bd3f7151d7abc1d0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,8 +205,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Merc/Subsections/Grey Banner Company - Price List.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Contract ced 01.md",
+    "Merc/Subsections/Grey Banner Company - Price List.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/completed contract 01.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Contract ced 01/Contract ced 01.md",
     "Merc/Subsections/Grey Banner Company - Contracts & Jobs/Contract ced 01",
