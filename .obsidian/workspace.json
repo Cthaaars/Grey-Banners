@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +81,7 @@
             }
           },
           {
-            "id": "bd3f7151d7abc1d0",
+            "id": "110215af86aebe61",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
